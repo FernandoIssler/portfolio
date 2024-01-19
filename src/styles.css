@@ -2,11 +2,13 @@
 * CSS file to hold styles that apply across the application
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500;600;700;800;900&family=Ubuntu:wght@300&display=swap');
+
 
 html,
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Ubuntu";
   height: 100%;
   margin: 0;
   overflow-x: hidden;
@@ -46,9 +48,9 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Ubuntu", serif;
   font-size: 7rem;
-  font-weight: 400;
+  font-weight: 800;
   line-height: 0.8;
   margin: 0;
 }

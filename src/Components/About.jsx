@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/issler-bg-about.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "wall decorated with blue background and white borders";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I want to be the transformative agent of this change. I want to contribute by sharing my knowledge at the same time I acquire it. I want to connect the world and be the necessary link to make this happen. Currently studying INFORMATION TECHNOLOGY MANAGEMENT (GTI) at Adventist University of Bahia (FADBA) in Brazil. I am a class leader and also lead several technology-related projects within the institution.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Development",
+  "Proactivity",
+  "Flexibility",
+  "PHP",
+  "SQL",
+  "BackEnd",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I believe that technology can change the world. In fact, this change is already happening. I am truly passionate about technology, innovation and entrepreneurship.";
 
 const About = () => {
   return (

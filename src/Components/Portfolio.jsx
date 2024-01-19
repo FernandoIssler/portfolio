@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/issler-desk-surface.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with paints and brushes on a table";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "FADBAQUADRAS - More organization for the sports directory. ⚽️ 🏀 🎾 🏐",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The court reservation organization and control system is available to all athletes at the FADBA institution.",
+    url: "https://www.fadbaquadras.com.br/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Find your student registration number",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Find your RA is the name of the project that makes it easier for FADBA students to obtain their registration number",
+    url: "https://isslerweb.com.br/encontreseura/",
   },
   {
-    title: "My Resume Site",
+    title: "OneLex - A virtual office for lawyers",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "OneLex is an entrepreneurial project, which aims to provide a virtual office for legal professionals.",
+    url: "https://onelex.com.br/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Control for the Financial Market",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "With TradeControl, financial market operators will be able to control each of their purchases and sales in detail.",
+    url: "https://www.tradecontrol.com.br/",
   },
 ];
 
